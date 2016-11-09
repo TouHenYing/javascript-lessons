@@ -33,17 +33,15 @@
 - [事件](https://github.com/stone0090/javascript-lessons/tree/master/2.3-Event)（已完成）
 - [作用域和闭包](https://github.com/stone0090/javascript-lessons/tree/master/2.4-Scope&Closure)（已完成）
 - [原型及原型链](https://github.com/stone0090/javascript-lessons/tree/master/2.5-Prototype)（已完成）
-- 类和模块，命名空间，全局变量污染
-- 异常处理
-- JSON
+- [综合挑战](https://github.com/stone0090/javascript-lessons/tree/master/2.9-Challenge)（持续更新...）
 
 ### 实践
-- 精读zepto.js
-- 精读underscore.js
+- [俄罗斯方块游戏](https://github.com/stone0090/javascript-lessons/tree/master/3.1-Tetris)（构思中…）
+- 俄罗斯方块游戏（vue版）
+- 手写zepto.js
 - 过场动画效果
 - 表单验证插件
 - 全屏滚动插件
-- 俄罗斯方块游戏
 - [网站性能优化](http://www.imooc.com/view/50)
 
 ## 课程内容来源
